@@ -10,7 +10,7 @@ SUM
 
 <img width="1920" height="1080" alt="sum 2" src="https://github.com/user-attachments/assets/997c29b0-db5a-41b5-9ba6-7a1ca7e902f2" />
 
-sum screen recording
+sum screen recording video ---> 
 [sum.zip](https://github.com/user-attachments/files/23114498/sum.zip)
 
 
@@ -20,7 +20,7 @@ COUNT
 
 <img width="1920" height="1080" alt="count 2" src="https://github.com/user-attachments/assets/57cec060-be8a-43fb-af48-ed665cf7046a" />
 
-count screen recording
+count screen recording video ---> 
 [count.zip](https://github.com/user-attachments/files/23114504/count.zip)
 
 AVG
@@ -29,7 +29,7 @@ AVG
 
 <img width="1920" height="1080" alt="avg 2" src="https://github.com/user-attachments/assets/d3982cae-c6cf-48d6-a9ac-5bc2fc36ccdd" />
 
-avg screen recording
+avg screen recording video ---> 
 [Avg.zip](https://github.com/user-attachments/files/23114451/Avg.zip)
 
 GROUP BY and HAVING clauses
@@ -38,5 +38,5 @@ GROUP BY and HAVING clauses
 
 <img width="1920" height="1080" alt="group by, having" src="https://github.com/user-attachments/assets/16fbc31d-6d1b-409c-b75e-4eedb673270a" />
 
-group by and having clauses screen recording
+group by and having clauses screen recording video ---> 
 [group by and having.zip](https://github.com/user-attachments/files/23114506/group.by.and.having.zip)
